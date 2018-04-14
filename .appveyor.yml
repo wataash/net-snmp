@@ -1,0 +1,11 @@
+image:
+  - Visual Studio 2017
+environment:
+  matrix:
+    - BUILD: MSVCDYNAMIC
+    - BUILD: MSVCSTATIC
+    # - BUILD: MinGW
+    - BUILD: Cygwin
+clone_depth: 5
+build_script:
+  - 'call "ci\build.bat"'
