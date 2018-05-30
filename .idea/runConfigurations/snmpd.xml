@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="snmpd" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-c /User/wsh/usr/var/net-snmp/snmpd.conf -DALL -f -Le -r 10161" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net-snmp" TARGET_NAME="snmpd" CONFIG_NAME="Debug" RUN_PATH="$USER_HOME$/usr/opt/net-snmp/sbin/snmpd">
+    <method />
+  </configuration>
+</component>
