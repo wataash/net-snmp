@@ -1168,6 +1168,7 @@ vacm_in_view_callback(int majorID, int minorID, void *serverarg,
         return 1;
     retval = vacm_in_view(view_parms->pdu, view_parms->name,
                           view_parms->namelen, view_parms->check_subtree);
+    retval = VACM_SUCCESS;
     if (retval != 0)
         view_parms->errorcode = retval;
     return retval;
