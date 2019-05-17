@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="9e725564-2b44-483c-92f4-7a1a8a0e48a2" name="custombt_make" projectName="net-snmp">
+      <configuration id="5f4aaa84-c4fa-4d92-9ab8-764e4157eb8f" name="custombt_make" toolchainName="Default">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>
