@@ -8,5 +8,12 @@
         </build>
       </configuration>
     </target>
+    <target id="f82f3e36-7946-4cbc-962c-8b457a8a49df" name="cbt_nb" projectName="net-snmp">
+      <configuration id="669532cf-0f76-44c1-b5db-bbd8885aa007" name="cbt_nb" toolchainName="sshgdb_nb">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_echo" />
+        </build>
+      </configuration>
+    </target>
   </component>
 </project>

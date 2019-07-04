@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="snmpd nb" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-f -Le" PASS_PARENT_ENVS_2="true" PROJECT_NAME="net-snmp" TARGET_NAME="cbt_nb" CONFIG_NAME="cbt_nb" RUN_PATH="$PROJECT_DIR$/build/agent/.libs/snmpd">
+    <method v="2">
+      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
